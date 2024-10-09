@@ -9,7 +9,7 @@ la Galia y controlaran algunos territorios en Hispania.
 
 ### Índice
 
-1. ![Época](epoca.md/epoca.md)
+1. ![Época](epoca.md)
 2. Arquitectura
 3. Obras más significativas
 
